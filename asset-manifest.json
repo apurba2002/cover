@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/cover/static/js/main.eb2bf6f2.js",
+    "static/js/787.8a5ca7ce.chunk.js": "/cover/static/js/787.8a5ca7ce.chunk.js",
+    "index.html": "/cover/index.html",
+    "main.eb2bf6f2.js.map": "/cover/static/js/main.eb2bf6f2.js.map",
+    "787.8a5ca7ce.chunk.js.map": "/cover/static/js/787.8a5ca7ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb2bf6f2.js"
+  ]
+}
